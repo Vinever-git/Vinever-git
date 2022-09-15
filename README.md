@@ -8,7 +8,7 @@ Eu sou um analista de sistemas apaixonado por tecnologia e que adora testar.
 
 * 🏠 Moro em Jarinu, SP
 * 📚 Atualmente estou focado em testes com cypress
-* ⚡ Amo boas música e adoro tocar contra-baixo 🎸
+* ⚡ Amo boas músicas e adoro tocar contra-baixo 🎸
 
 ### Tecnologias
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
