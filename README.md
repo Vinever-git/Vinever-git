@@ -1,7 +1,7 @@
 ### Olá, Me chamo Vinicius 👋
 
-![Badge](https://github-readme-stats.vercel.app/api?username=Vinever-git)
-![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinever-git)
+![Badge](https://github-readme-stats.vercel.app/api?username=vybarbosa)
+![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=vybarbosa)
 
 
 Eu sou um analista de sistemas apaixonado por tecnologia e que adora testar.
